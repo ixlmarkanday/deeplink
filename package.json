@@ -1,0 +1,23 @@
+{
+  "name": "cordova-plugin-app-deeplinking",
+  "version": "1.0.0",
+  "description": "app to app deeplinking",
+  "cordova": {
+    "id": "cordova-plugin-app-deeplinking",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git remote add origin https://github.com/ixlmarkanday/deeplink.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "author": "Markanday Gupta",
+  "license": "MIT"
+}
