@@ -1,4 +1,4 @@
-package cordova-plugin-app-deeplinking;
+package com.app;
 
 import org.apache.cordova.CordovaPlugin;
 import org.apache.cordova.CallbackContext;
