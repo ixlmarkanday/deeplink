@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "app to app deeplinking",
   "cordova": {
-    "id": "cordova-plugin-app-deeplinking",
+    "id": "cordova_plugin_app_deeplinking",
     "platforms": [
       "android",
       "ios"
